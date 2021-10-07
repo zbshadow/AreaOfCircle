@@ -1,13 +1,6 @@
-/*
-Program Name: Area Of a Circle
-Author: B. Bayless
-Date Last Updated: 11/3/2018
-Purpose: Calculates the are of a circle based on user input
-*/
-
-#include <iostream>;
-#include <iomanip>;
-#include <cmath>;
+#include <iostream>
+#include <iomanip>
+#include <cmath>
 
 using namespace std;
 
